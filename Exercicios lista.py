@@ -193,6 +193,8 @@ else:
 #18 18. Faça um programa que calcule o tempo aproximado de download de um arquivo dado seu
 #tamanho (MB) e velocidade da internet (Mbps).
 
+
+"""
 tamanho = float(input("Digite o tamanho do arquivo aproximado de download de um arquivo: "))
 
 mbps = float(input("qual a velociade de upload?"))
@@ -206,4 +208,4 @@ segundos = resto % 60
 
 print(f' irá demorar um total de: {tempo_hr}hr, {minutos}min, {segundos}seg')
 
-
+"""
